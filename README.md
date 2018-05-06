@@ -12,5 +12,6 @@ This adapter run rundeck's job on gitee webhook event
 程序使用了`tornado`
 
 ## todo
-[ ] 使用独立配置文件
-[ ] 晚上文档
+[] 使用独立配置文件
+
+[] 完善文档
